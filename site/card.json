@@ -1,0 +1,24 @@
+{
+  "schema": "gzg.server-card/0.1",
+  "id": "ORACLE",
+  "version": "0.1.0-alpha.1",
+  "status": "alpha",
+  "tier": 2,
+  "purpose": "Ephemeral Ghost ingress, local claims, signatures, and evidence identity.",
+  "flag": "DEDICATED_REPO_PAGE",
+  "repository": {
+    "required": true,
+    "independent": true,
+    "full_name": "rustycohl/ORACLE"
+  },
+  "page": {
+    "required": true,
+    "url": "https://rustycohl.github.io/ORACLE/"
+  },
+  "authority": {
+    "game_server": "none",
+    "state": "deterministic-local-evidence",
+    "joke_chain": "not-implemented"
+  },
+  "dependencies": []
+}
