@@ -2,7 +2,7 @@
 
 Ephemeral Ghost ingress, local claims, signatures, and evidence identity.
 
-This is an independent Ground Zero Gaming server-card port:
+This is an independent Ground Zero Games server-card port:
 
 - repository: `rustycohl/ORACLE`
 - Page: https://rustycohl.github.io/ORACLE/
